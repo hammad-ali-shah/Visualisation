@@ -5,7 +5,7 @@
 
 ## About the Project
 
-I utilized the "Pakistan Flood 2022" [dataset](https://www.kaggle.com/datasets/revolutionarybukhari/floods-in-pakistan-2022-latest-ndma-dataset) from the National Disaster Management Authority (NDMA) that was available on Kaggle.I visualized this dataset using Tableau.
+I utilized the "Pakistan Flood 2022" [dataset](https://www.kaggle.com/datasets/revolutionarybukhari/floods-in-pakistan-2022-latest-ndma-dataset) from the National Disaster Management Authority (NDMA) that was available on Kaggle and visualized this dataset using Tableau.
 
 
 ## Feedback
